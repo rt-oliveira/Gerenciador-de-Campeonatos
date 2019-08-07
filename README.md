@@ -1,29 +1,31 @@
+ï»¿![LicenÃ§a da aplicaÃ§Ã£o](https://img.shields.io/github/license/rt-oliveira/Conversor-Binario-Decimal)
+
 # Gerenciador de Campeonatos
 
-Este software possibilitará o gerenciamento de campeonatos de mata-mata e de pontos corridos.
+Este software possibilitarÃ¡ o gerenciamento de campeonatos de mata-mata e de pontos corridos.
 
-Com ele é possível:
+Com ele Ã© possÃ­vel:
 - Gerar aleatoriamente os confrontos de cada fase de um campeonato mata-mata;
-- Registrar os resultados de um campeonato de pontos corridos, além de...;
+- Registrar os resultados de um campeonato de pontos corridos, alÃ©m de...;
 - Visualizar a tabela de um campeonato em pontos corridos.
 
-## Observações:
+## ObservaÃ§Ãµes:
 
 - Sobre os campeonatos em mata-mata:
-  - O programa considera que são feitos em dois jogos cada duelo, em todas as fases;
-  - Caso empate em número de gols feitos, o critério desempate usado é o de quantidade de gols feitos fora de casa;
-  - E se continuar igual no critério desempate, o programa considerará que é preciso fazer disputa de pênaltis;
-  - Quando há o caso de disputa de pênaltis, o programa pede o placar da disputa, a fim de saber o time classificado.
+  - O programa considera que sÃ£o feitos em dois jogos cada duelo, em todas as fases;
+  - Caso empate em nÃºmero de gols feitos, o critÃ©rio desempate usado Ã© o de quantidade de gols feitos fora de casa;
+  - E se continuar igual no critÃ©rio desempate, o programa considerarÃ¡ que Ã© preciso fazer disputa de pÃªnaltis;
+  - Quando hÃ¡ o caso de disputa de pÃªnaltis, o programa pede o placar da disputa, a fim de saber o time classificado.
 
 ## Imagens do Software
 
 - Tela inicial
 
-![Tela inicial do software, que contém uma pergunta questionando o tipo de campeonato que deseja registrar resultados](imagens/tela_inicial.png)
+![Tela inicial do software, que contÃ©m uma pergunta questionando o tipo de campeonato que deseja registrar resultados](imagens/tela_inicial.png)
 
 - Tela de campeonato de pontos corridos
 
-![Tela de pontos corridos, que contém uma tabela mostrando os times participantes do campeonato](imagens/tela_pontoscorridos.png)
+![Tela de pontos corridos, que contÃ©m uma tabela mostrando os times participantes do campeonato](imagens/tela_pontoscorridos.png)
 
 - Tela de campeonato mata-mata
 
@@ -33,30 +35,25 @@ Com ele é possível:
 
 ## Uso
 
-Para usar a aplicação:
+Para usar a aplicaÃ§Ã£o:
 
   1. Fazer o download: Duas formas de baixar o sistema:
   
-    - Baixando o ZIP diretamente do repositório, ou;
-    - Fazendo o clone deste repositório, através do comando:
+    - Baixando o ZIP diretamente do repositÃ³rio, ou;
+    - Fazendo o clone deste repositÃ³rio, atravÃ©s do comando:
     git clone https://github.com/rt-oliveira/Gerenciador-de-Campeonatos.git
     
-  2. Compilar a aplicação: Para compilar a aplicação, e gerar o executável *jar*, basta dar o seguinte comando na pasta da aplicação:
+  2. Compilar a aplicaÃ§Ã£o: Para compilar a aplicaÃ§Ã£o, e gerar o executÃ¡vel *jar*, basta dar o seguinte comando na pasta da aplicaÃ§Ã£o:
     `ant`
 	
-  3. O arquivo *jar* será gerado com esse comando, e;
+  3. O arquivo *jar* serÃ¡ gerado com esse comando, e;
   
-  4. Está pronto para ser usado o Gerenciador de Campeonatos.
+  4. EstÃ¡ pronto para ser usado o Gerenciador de Campeonatos.
   
-## Contribuições
-  
-  - Para contribuir:
-    1. Crie um fork deste repositório
-    2. Crie uma branch para fazer as alterações
-    3. Faça as alterações necessárias
-    4. Faça um commit, e envie para seu repositório remoto
-    5. Crie um Pull Request
+## ContribuiÃ§Ãµes
 
+[![Como contribuir para o projeto](https://img.shields.io/badge/ContribuiÃ§Ã£o-Como%20Contribuir-blue.svg)](CONTRIBUTING.md)
+  
 Ps.: Software desenvolvido em 2016 por Rafael Teixeira de Oliveira.
 
 
