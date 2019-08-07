@@ -1,4 +1,4 @@
-﻿![Licença da aplicação](https://img.shields.io/github/license/rt-oliveira/Conversor-Binario-Decimal)
+﻿![Licença da aplicação](https://img.shields.io/github/license/rt-oliveira/Gerenciador-de-Campeonatos)
 
 # Gerenciador de Campeonatos
 
